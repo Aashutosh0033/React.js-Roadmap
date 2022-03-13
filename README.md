@@ -32,7 +32,7 @@ Git and GitHub learning resource : <br><br>
 *Documentation Links*<br>
 * [Link 1](https://www.freecodecamp.org/news/how-to-use-git-and-github-in-a-team-like-a-pro/amp/)
 * [Link 2](https://github.com/Aashutosh0033/React.js-Roadmap/blob/main/Git-Cheat-Sheet.pdf)<br>
-* [Link 3](https://github.com/Aashutosh0033/React.js-Roadmap/blob/main/git-cheet-sheet-education.pdf)
+* [Link 3](https://github.com/Aashutosh0033/React.js-Roadmap/blob/main/git-cheat-sheet-education.pdf)
 <br>
 
 
