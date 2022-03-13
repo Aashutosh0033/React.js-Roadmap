@@ -14,7 +14,7 @@ Visit the official website for [React.org](https://reactjs.org/) to get more inf
 ## What to learn before you learn React<br>
 ReactJS is JavaScript-based. You'll need to be familiar with a few things (other than basic JavaScript knowledge) to accelerate your React learning at full speed.<br><br>
 
-# Git Version Control <br>
+**Git Version Control** <br>
 Git is a version control tool that helps you manage your source code better. It doesn't have a direct relationship with ReactJS. But it helps if you learn its basic uses so you can take advantage of the development ecosystem.<br><br>
 
 Git is easy to learn when you focus on a few basic things like,<br><br>
@@ -31,13 +31,13 @@ Git and GitHub learning resource : <br><br>
 
 *Documentation Links*<br>
 * [Link 1](https://www.freecodecamp.org/news/how-to-use-git-and-github-in-a-team-like-a-pro/amp/)
-* [Link 2]()
+* [Link 2]()<br>
 * [Link 3]()
 <br>
 *YouTube Tutorial Links*<br>
-* [Anuj Bhaiyya - Git and GitHub in one Video](https://youtu.be/RGOj5yH7evk)
-* [FreeCodeCamp - Git and GitHub in one Video](https://youtu.be/uaeKhfhYE0U)
-* [Code with Harry - Git and GitHub tutorials](https://www.youtube.com/watch?v=vunhMBRfhL8&list=PLu0W_9lII9ahVQekD7ePHmnirTePXwIln)
+* [Anuj Bhaiyya - Git and GitHub in one Video](https://youtu.be/RGOj5yH7evk)<br>
+* [FreeCodeCamp - Git and GitHub in one Video](https://youtu.be/uaeKhfhYE0U)<br>
+* [Code with Harry - Git and GitHub tutorials](https://www.youtube.com/watch?v=vunhMBRfhL8&list=PLu0W_9lII9ahVQekD7ePHmnirTePXwIln)<br>
 
 
 
