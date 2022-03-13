@@ -72,9 +72,9 @@ You can also check out freeCodeCamp's [Responsive Web Design certification](http
 JavaScript learning resource : <br><br>
 
 *YouTube Tutorials*<br>
-[Code with Harry](https://www.youtube.com/watch?v=cvvwkgp4HBg&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL)<br>
-[Hitesh Chaudhary](https://www.youtube.com/watch?v=2md4HQNRqJA&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD)<br>
-[Namaste JavaScript](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)<br><br>
+* [Code with Harry](https://www.youtube.com/watch?v=cvvwkgp4HBg&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL)<br>
+* [Hitesh Chaudhary](https://www.youtube.com/watch?v=2md4HQNRqJA&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD)<br>
+* [Namaste JavaScript](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)<br><br>
 
 freeCodeCamp also has a [JavaScript certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) if you want to check that out.<br><br>
 
