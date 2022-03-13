@@ -35,7 +35,7 @@ Git and GitHub learning resource : <br><br>
 * [Link 3]()
 <br>
 *YouTube Tutorial Links*<br>
-* [Anuj Bhaiyya - Git and GitHub in one Video](https://youtu.be/uaeKhfhYE0U/)<br>
+* [Anuj Bhaiyya - Git and GitHub in one Video](https://www.youtube.com/watch?v=uaeKhfhYE0U)<br>
 * [FreeCodeCamp - Git and GitHub in one Video](https://youtu.be/RGOj5yH7evk/)<br>
 * [Code with Harry - Git and GitHub tutorials](https://www.youtube.com/watch?v=vunhMBRfhL8&list=PLu0W_9lII9ahVQekD7ePHmnirTePXwIln/)<br>
 
