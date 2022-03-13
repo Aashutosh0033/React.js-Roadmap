@@ -85,7 +85,7 @@ Knowing how they work at a high level is always helpful to debug your environmen
 
 **How to Deploy, Host, and Make your App Public:**<br>
 It won't be much fun if you have created something cool with ReactJS and cannot showcase it to the world. So, you should know how to deploy the app and make it available for public access.<br>
-Tools like Vercel or Netlify make it easy to deploy your React app with a few clicks. Here's a tutorial, for example, on [deploying your React app to Netlify](https://www.youtube.com/watch?v=ZKxvBsGVKR8).<br><br>><br>
+Tools like Vercel or Netlify make it easy to deploy your React app with a few clicks. Here's a tutorial, for example, on [deploying your React app to Netlify](https://www.youtube.com/watch?v=ZKxvBsGVKR8).<br><br><br>
 
 
 
