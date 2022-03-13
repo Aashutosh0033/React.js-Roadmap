@@ -35,9 +35,9 @@ Git and GitHub learning resource : <br><br>
 * [Link 3](https://github.com/Aashutosh0033/React.js-Roadmap/blob/main/git-cheat-sheet-education.pdf)
 <br>
 *YouTube Tutorial Links*<br>
-* [Anuj Bhaiyya - Git and GitHub in one Video](https://www.youtube.com/watch?v=uaeKhfhYE0U)<br>
-* [FreeCodeCamp - Git and GitHub in one Video](https://youtu.be/RGOj5yH7evk/)<br>
-* [Code with Harry - Git and GitHub tutorials](https://www.youtube.com/watch?v=vunhMBRfhL8&list=PLu0W_9lII9ahVQekD7ePHmnirTePXwIln/)<br><br>
+[Anuj Bhaiyya - Git and GitHub in one Video](https://www.youtube.com/watch?v=uaeKhfhYE0U)<br>
+[FreeCodeCamp - Git and GitHub in one Video](https://youtu.be/RGOj5yH7evk/)<br>
+[Code with Harry - Git and GitHub tutorials](https://www.youtube.com/watch?v=vunhMBRfhL8&list=PLu0W_9lII9ahVQekD7ePHmnirTePXwIln/)<br><br>
 
 **HTML**<br>
 HTML provides the structure of a web page. You will use the HTML structure in a new syntax called JSX when you code in ReactJS.<br>
