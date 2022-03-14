@@ -41,11 +41,13 @@ Git and GitHub learning resource : <br><br>
 * [Code with Harry - Git and GitHub tutorials](https://www.youtube.com/watch?v=vunhMBRfhL8&list=PLu0W_9lII9ahVQekD7ePHmnirTePXwIln/)<br><br>
 
 **HTML**<br>
+
 HTML provides the structure of a web page. You will use the HTML structure in a new syntax called JSX when you code in ReactJS.<br>
 You don't need to know everything about HTML. But you should have a basic knowledge of the most-used tags and semantics. You can check out this [HTML documentation for beginners and this HTML basics guide](https://www.w3schools.com/html/default.asp) to get started.<br><br>
 
 
 **CSS**<br>
+
 When it comes to CSS, the scope is sky-high. However, focus on the topics mentioned below:<br>
 * Basic Selectors<br>
 * Pseudo-classes and how to combine<br>
@@ -80,6 +82,7 @@ JavaScript learning resource : <br><br>
 freeCodeCamp also has a [JavaScript certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) if you want to check that out.<br><br>
 
 **NPM Ecosystem**<br>
+
 You should be aware of how to use npm, yarn, and node version manager (nvm) to help you run and test a ReactJs app locally.<br>
 Knowing how they work at a high level is always helpful to debug your environment in case you run into issues. Here is a resource to help you get started with all these quickly: [Node.js install, npm, yarn, nvm.](https://www.youtube.com/watch?v=JINE4D0Syqw)<br><br>
 
