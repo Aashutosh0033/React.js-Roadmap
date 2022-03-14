@@ -88,6 +88,8 @@ It won't be much fun if you have created something cool with ReactJS and cannot 
 Tools like Vercel or Netlify make it easy to deploy your React app with a few clicks. Here's a tutorial, for example, on [deploying your React app to Netlify](https://www.youtube.com/watch?v=ZKxvBsGVKR8).<br><br><br>
 
 
+## What to learn as a beginner to React <br>
+
 
 
 
