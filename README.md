@@ -40,7 +40,7 @@ Git and GitHub learning resource : <br><br>
 * [FreeCodeCamp - Git and GitHub in one Video](https://youtu.be/RGOj5yH7evk/)<br>
 * [Code with Harry - Git and GitHub tutorials](https://www.youtube.com/watch?v=vunhMBRfhL8&list=PLu0W_9lII9ahVQekD7ePHmnirTePXwIln/)<br><br>
 
-**HTML**![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>
 
 HTML provides the structure of a web page. You will use the HTML structure in a new syntax called JSX when you code in ReactJS.<br>
 You don't need to know everything about HTML. But you should have a basic knowledge of the most-used tags and semantics. You can check out this [HTML documentation for beginners and this HTML basics guide](https://www.w3schools.com/html/default.asp) to get started.<br><br>
