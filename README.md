@@ -14,7 +14,8 @@ Visit the official website [React.org](https://reactjs.org/) to get more informa
 ## What to learn before you learn React<br>
 ReactJS is JavaScript-based. You'll need to be familiar with a few things (other than basic JavaScript knowledge) to accelerate your React learning at full speed.<br><br>
 
-**Git Version Control**   ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) <br>
+![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) <br>
+**Git Version Control**<br>
 Git is a version control tool that helps you manage your source code better. It doesn't have a direct relationship with ReactJS. But it helps if you learn its basic uses so you can take advantage of the development ecosystem.<br><br>
 
 Git is easy to learn when you focus on a few basic things like,<br><br>
@@ -40,13 +41,15 @@ Git and GitHub learning resource : <br><br>
 * [FreeCodeCamp - Git and GitHub in one Video](https://youtu.be/RGOj5yH7evk/)<br>
 * [Code with Harry - Git and GitHub tutorials](https://www.youtube.com/watch?v=vunhMBRfhL8&list=PLu0W_9lII9ahVQekD7ePHmnirTePXwIln/)<br><br>
 
-**HTML**  ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>
+**HTML**<br>
 
 HTML provides the structure of a web page. You will use the HTML structure in a new syntax called JSX when you code in ReactJS.<br>
 You don't need to know everything about HTML. But you should have a basic knowledge of the most-used tags and semantics. You can check out this [HTML documentation for beginners and this HTML basics guide](https://www.w3schools.com/html/default.asp) to get started.<br><br>
 
 
-**CSS**  ![image](	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>
+![image](	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>
+**CSS**<br>
 
 When it comes to CSS, the scope is sky-high. However, focus on the topics mentioned below:<br>
 * Basic Selectors<br>
@@ -61,7 +64,8 @@ You can learn a lot about CSS on the [W3Schools](https://www.w3schools.com/css/d
 You can also check out freeCodeCamp's [Responsive Web Design certification](https://www.freecodecamp.org/learn/responsive-web-design/) to learn CSS.
 <br><br>
 
-**JavaScript**  ![image](	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)<br>
+![image](	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)<br>
+**JavaScript**<br>
 * You must know the following concepts from JavaScript,<br>
 * Variable Declarations (let and const)<br>
 * Template Literals<br>
