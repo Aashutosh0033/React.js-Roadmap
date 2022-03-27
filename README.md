@@ -85,6 +85,8 @@ JavaScript learning resource : <br><br>
 
 freeCodeCamp also has a [JavaScript certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) if you want to check that out.<br><br>
 
+
+![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)<br>
 **NPM Ecosystem**<br>
 
 You should be aware of how to use npm, yarn, and node version manager (nvm) to help you run and test a ReactJs app locally.<br>
